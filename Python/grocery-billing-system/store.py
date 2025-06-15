@@ -16,4 +16,3 @@ def list_items():
         print(item, ": ₹", price)
 
 # print(get_price("Apple"))
-list_items()
